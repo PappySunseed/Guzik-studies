@@ -7,18 +7,148 @@
     <description>A brief description of your podcast.</description>
     <itunes:author>Your Name or Author</itunes:author>
     <itunes:image href="https://link-to-your-square-image.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>    
-
+    <itunes:category text="Religion &amp; Spirituality"/>
     <item>
         <title>01 - The Burnt Offering – Leviticus Chapter 1</title>
-        <description>Description for this specific episode.</description>
         <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/01%20-%20The%20Burnt%20Offering%20%E2%80%93%20Leviticus%20Chapter%201.mp3" length="0" type="audio/mpeg"/>
-        <guid isPermaLink="false">leviticus-ep-01</guid>
-        <pubDate>Mon, 01 Jan 2026 00:00:00 GMT</pubDate>
+        <guid>01 - The Burnt Offering – Leviticus Chapter 1</guid>
     </item>
+    <item>
+        <title>02 - How The Grain Offering Points to Jesus – Leviticus Chapter 2</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/02%20-%20How%20The%20Grain%20Offering%20Points%20to%20Jesus%20%E2%80%93%20Leviticus%20Chapter%202.mp3" length="0" type="audio/mpeg"/>
+        <guid>02 - How The Grain Offering Points to Jesus – Leviticus Chapter 2</guid>
+    </item>
+    <item>
+        <title>03 - How The Peace Offering Points to Jesus – Leviticus Chapter 3</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/03%20-%20How%20The%20Peace%20Offering%20Points%20to%20Jesus%20%E2%80%93%20Leviticus%20Chapter%203.mp3" length="0" type="audio/mpeg"/>
+        <guid>03 - How The Peace Offering Points to Jesus – Leviticus Chapter 3</guid>
+    </item>
+    <item>
+        <title>04 - How The Sin Offering Points to Jesus – Leviticus Chapter 4</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/04%20-%20How%20The%20Sin%20Offering%20Points%20to%20Jesus%20%E2%80%93%20Leviticus%20Chapter%204.mp3" length="0" type="audio/mpeg"/>
+        <guid>04 - How The Sin Offering Points to Jesus – Leviticus Chapter 4</guid>
+    </item>
+    <item>
+        <title>05 - How The Trespass &amp; Guilt Offerings Points to Jesus – Leviticus Chapter 5</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/05%20-%20How%20The%20Trespass%20%26%20Guilt%20Offerings%20Points%20to%20Jesus%20%E2%80%93%20Leviticus%20Chapter%205.mp3" length="0" type="audio/mpeg"/>
+        <guid>05 - How The Trespass &amp; Guilt Offerings Points to Jesus – Leviticus Chapter 5</guid>
+    </item>
+    <item>
+        <title>06 - Instructions for the Priests – Leviticus Chapter 6</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/06%20-%20Instructions%20for%20the%20Priests%20%E2%80%93%20Leviticus%20Chapter%206.mp3" length="0" type="audio/mpeg"/>
+        <guid>06 - Instructions for the Priests – Leviticus Chapter 6</guid>
+    </item>
+    <item>
+        <title>07 - How Jesus Fulfills the Sacrificial System – Leviticus Chapter 7</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/07%20-%20How%20Jesus%20Fulfills%20the%20Sacrificial%20System%20%E2%80%93%20Leviticus%20Chapter%207.mp3" length="0" type="audio/mpeg"/>
+        <guid>07 - How Jesus Fulfills the Sacrificial System – Leviticus Chapter 7</guid>
+    </item>
+    <item>
+        <title>08 - The Consecration of Priests – Leviticus Chapter 8</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/08%20-%20The%20Consecration%20of%20Priests%20%E2%80%93%20Leviticus%20Chapter%208.mp3" length="0" type="audio/mpeg"/>
+        <guid>08 - The Consecration of Priests – Leviticus Chapter 8</guid>
+    </item>
+    <item>
+        <title>09 - How Christ Fulfills The Consecration of Priests – Leviticus Chapter 9</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/09%20-%20How%20Christ%20Fulfills%20The%20Consecration%20of%20Priests%20%E2%80%93%20Leviticus%20Chapter%209.mp3" length="0" type="audio/mpeg"/>
+        <guid>09 - How Christ Fulfills The Consecration of Priests – Leviticus Chapter 9</guid>
+    </item>
+    <item>
+        <title>10 - Profane Fire Before The Lord – Leviticus Chapter 10</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/10%20-%20Profane%20Fire%20Before%20The%20Lord%20%E2%80%93%20Leviticus%20Chapter%2010.mp3" length="0" type="audio/mpeg"/>
+        <guid>10 - Profane Fire Before The Lord – Leviticus Chapter 10</guid>
+    </item>
+    <item>
+        <title>11 - Clean &amp; Unclean Animals – Leviticus Chapter 11</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/11%20-%20Clean%20%26%20Unclean%20Animals%20%E2%80%93%20Leviticus%20Chapter%2011.mp3" length="0" type="audio/mpeg"/>
+        <guid>11 - Clean &amp; Unclean Animals – Leviticus Chapter 11</guid>
+    </item>
+    <item>
+        <title>12 - Rituals After Childbirth – Leviticus Chapter 12</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/12%20-%20Rituals%20After%20Childbirth%20%E2%80%93%20Leviticus%20Chapter%2012.mp3" length="0" type="audio/mpeg"/>
+        <guid>12 - Rituals After Childbirth – Leviticus Chapter 12</guid>
+    </item>
+    <item>
+        <title>13 - How Sin Is Like Leprosy – Leviticus Chapter 13</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/13%20-%20How%20Sin%20Is%20Like%20Leprosy%20%E2%80%93%20Leviticus%20Chapter%2013.mp3" length="0" type="audio/mpeg"/>
+        <guid>13 - How Sin Is Like Leprosy – Leviticus Chapter 13</guid>
+    </item>
+    <item>
+        <title>14 - Rituals on the Cleansing of a Leper – Leviticus Chapter 14</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/14%20-%20Rituals%20on%20the%20Cleansing%20of%20a%20Leper%20%E2%80%93%20Leviticus%20Chapter%2014.mp3" length="0" type="audio/mpeg"/>
+        <guid>14 - Rituals on the Cleansing of a Leper – Leviticus Chapter 14</guid>
+    </item>
+    <item>
+        <title>15 - Uncleanliness &amp; The Body – Leviticus Chapter 15</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/15%20-%20Uncleanliness%20%26%20The%20Body%20%E2%80%93%20Leviticus%20Chapter%2015.mp3" length="0" type="audio/mpeg"/>
+        <guid>15 - Uncleanliness &amp; The Body – Leviticus Chapter 15</guid>
+    </item>
+    <item>
+        <title>16 - The Day of Atonement Fulfilled In Christ – Leviticus Chapter 16</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/16%20-%20The%20Day%20of%20Atonement%20Fulfilled%20In%20Christ%20%E2%80%93%20Leviticus%20Chapter%2016.mp3" length="0" type="audio/mpeg"/>
+        <guid>16 - The Day of Atonement Fulfilled In Christ – Leviticus Chapter 16</guid>
+    </item>
+    <item>
+        <title>17 - The Sanctity of Blood – Leviticus Chapter 17</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/17%20-%20The%20Sanctity%20of%20Blood%20%E2%80%93%20Leviticus%20Chapter%2017.mp3" length="0" type="audio/mpeg"/>
+        <guid>17 - The Sanctity of Blood – Leviticus Chapter 17</guid>
+    </item>
+    <item>
+        <title>18 - What The Bible Really Says About Sexual Immorality – Leviticus Chapter 18</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/18%20-%20What%20The%20Bible%20Really%20Says%20About%20Sexual%20Immorality%20%E2%80%93%20Leviticus%20Chapter%2018.mp3" length="0" type="audio/mpeg"/>
+        <guid>18 - What The Bible Really Says About Sexual Immorality – Leviticus Chapter 18</guid>
+    </item>
+    <item>
+        <title>19 - A Call To Holiness – Leviticus Chapter 19</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/19%20-%20A%20Call%20To%20Holiness%20%E2%80%93%20Leviticus%20Chapter%2019.mp3" length="0" type="audio/mpeg"/>
+        <guid>19 - A Call To Holiness – Leviticus Chapter 19</guid>
+    </item>
+    <item>
+        <title>20 - Holiness or Judgment – Leviticus Chapter 20</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/20%20-%20Holiness%20or%20Judgment%20%E2%80%93%20Leviticus%20Chapter%2020.mp3" length="0" type="audio/mpeg"/>
+        <guid>20 - Holiness or Judgment – Leviticus Chapter 20</guid>
+    </item>
+    <item>
+        <title>21 - Christ As Our High Priest – Leviticus Chapter 21</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/21%20-%20Christ%20As%20Our%20High%20Priest%20%E2%80%93%20Leviticus%20Chapter%2021.mp3" length="0" type="audio/mpeg"/>
+        <guid>21 - Christ As Our High Priest – Leviticus Chapter 21</guid>
+    </item>
+    <item>
+        <title>22 - A Perfect Sacrifice – Leviticus Chapter 22</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/22%20-%20A%20Perfect%20Sacrifice%20%E2%80%93%20Leviticus%20Chapter%2022.mp3" length="0" type="audio/mpeg"/>
+        <guid>22 - A Perfect Sacrifice – Leviticus Chapter 22</guid>
+    </item>
+    <item>
+        <title>23 - How Each Biblical Feast Points To Jesus – Leviticus Chapter 23</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/23%20-%20How%20Each%20Biblical%20Feast%20Points%20To%20Jesus%20%E2%80%93%20Leviticus%20Chapter%2023.mp3" length="0" type="audio/mpeg"/>
+        <guid>23 - How Each Biblical Feast Points To Jesus – Leviticus Chapter 23</guid>
+    </item>
+    <item>
+        <title>24 - The Law Put into Action – Leviticus Chapter 24</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/24%20-%20The%20Law%20Put%20into%20Action%20%E2%80%93%20Leviticus%20Chapter%2024.mp3" length="0" type="audio/mpeg"/>
+        <guid>24 - The Law Put into Action – Leviticus Chapter 24</guid>
+    </item>
+    <item>
+        <title>25 - Blessings &amp; Curses Upon Israel – Leviticus Chapter 26</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/25%20-%20Blessings%20%E2%80%93%20Curses%20Upon%20Israel%20%E2%80%93%20Leviticus%20Chapter%2026.mp3" length="0" type="audio/mpeg"/>
+        <guid>25 - Blessings &amp; Curses Upon Israel – Leviticus Chapter 26</guid>
+    </item>
+    <item>
+        <title>26 - Special Sabbaths &amp; Jubilees Fulfilled In Christ– Leviticus Chapter 25</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/26%20-%20Special%20Sabbaths%20%E2%80%93%20Jubilees%20Fulfilled%20In%20Christ%E2%80%93%20Leviticus%20Chapter%2025.mp3" length="0" type="audio/mpeg"/>
+        <guid>26 - Special Sabbaths &amp; Jubilees Fulfilled In Christ– Leviticus Chapter 25</guid>
+    </item>
+    <item>
+        <title>27 - Consecrated To The Lord – Leviticus Chapter 27</title>
+        <enclosure url="https://archive.org/download/leviticus-verse-by-verse_david-guzik/27%20-%20Consecrated%20To%20The%20Lord%20%E2%80%93%20Leviticus%20Chapter%2027.mp3" length="0" type="audio/mpeg"/>
+        <guid>27 - Consecrated To The Lord – Leviticus Chapter 27</guid>
+    </item>
+<<<<<<< HEAD
     
     <!-- Repeat <item> blocks for your other 27 episodes -->
     <!--hope this works-->
 
+=======
+>>>>>>> parent of 383756d (stripping down to one item to simplify testing)
   </channel>
 </rss>
