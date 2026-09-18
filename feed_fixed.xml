@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Your Podcast Name</title>
-    <link>https://yourwebsite.com</link>
+    <title>Leviticus: Verse-by-Verse</title>
+    <link>https://www.youtube.com/playlist?list=PL_QIfO0mxbX4s0irgaRU-o41NMeq6gJDv</link>
     <language>en-us</language>
-    <description>A brief description of your podcast.</description>
-    <itunes:author>Your Name or Author</itunes:author>
-    <itunes:image href="https://github.com/PappySunseed/Guzik-studies/blob/main/studio_square_thumbnail.jpg"/>    
+    <description>Audio from David Guzik's youtube series: Leviticus: Verse-by-Verse</description>
+    <itunes:author>David Guzik</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/PappySunseed/Guzik-studies/main/studio_square_thumbnail.jpg"/>    
     <itunes:category text="Religion &amp; Spirituality" />
     <item>
       <title>01 - The Burnt Offering – Leviticus Chapter 1</title>
