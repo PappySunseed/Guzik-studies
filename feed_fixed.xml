@@ -6,7 +6,7 @@
     <language>en-us</language>
     <description>A brief description of your podcast.</description>
     <itunes:author>Your Name or Author</itunes:author>
-    <itunes:image href="https://i.ytimg.com/pl_c/PL_QIfO0mxbX4s0irgaRU-o41NMeq6gJDv/studio_square_thumbnail.jpg?sqp=CPjjtNUG-oaymwEICOADEOADSFqi85f_AwYI3eHevQY=&rs=AOn4CLAm9g9XlqN6AYSeaGjpY57YBHQkEQ" />
+    <itunes:image href="https://i.ytimg.com/pl_c/PL_QIfO0mxbX4s0irgaRU-o41NMeq6gJDv/studio_square_thumbnail.jpg"/>    
     <itunes:category text="Religion &amp; Spirituality" />
     <item>
       <title>01 - The Burnt Offering – Leviticus Chapter 1</title>
